@@ -11,7 +11,7 @@
 
 **Step-3)** On your desktop directory, open terminal and type: 
    
-    git clone https://github.com/alisaitbilgi/React-Boilerplate.git
+    git clone https://github.com/yunusdag/ustOrtamReact.js-Odev1.git
     
 **Step-4)** Inside the repository type:
     
@@ -24,8 +24,3 @@
 **Step-6)** Open the browser, then go to url:
 
     localhost:8080
-
-   After installing "Node.js" and "git" you can watch the videos to bootstrap the application
-   https://www.dropbox.com/sh/y7q60nv1ry96kjf/AADZsInvyuBVoPD9tOEzm47Ba?dl=0
-
-# React-ToDo-App
